@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: islempenywis@gmail.com.
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often. --> -->
+- ⚡ Fun fact: I play games and go to the GYM very often. -->
 
 #### Top Technologies
 
