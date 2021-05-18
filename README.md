@@ -59,19 +59,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
 #### Github Stats
 
 <!-- ![Ipenywis's github stats](https://github.com/nguyentruongnvt72/soicauchuan_3cang/api?username=nguyentruongnvt72) -->
@@ -82,8 +69,6 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
   ####
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruongnvt72&langs_count=8&layout=compact)](https://github.com/nguyentruongnvt72/nguyentruongnvt72/edit/master/README.md)
 
-
-</details>
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
