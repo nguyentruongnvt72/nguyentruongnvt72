@@ -80,7 +80,7 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
   
   ####
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruongnvt72&langs_count=8)](https://github.com/nguyentruongnvt72/nguyentruongnvt72/edit/master/README.md)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruongnvt72&langs_count=8&layout=compact)](https://github.com/nguyentruongnvt72/nguyentruongnvt72/edit/master/README.md)
 
 
 </details>
