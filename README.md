@@ -92,7 +92,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
   
   ####
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruongnvt72&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruongnvt72&langs_count=8)](https://github.com/nguyentruongnvt72/nguyentruongnvt72/edit/master/README.md)
 
 
 </details>
