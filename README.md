@@ -51,13 +51,8 @@
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :email: nguyentruongnvt72@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 #### Github Stats
 
