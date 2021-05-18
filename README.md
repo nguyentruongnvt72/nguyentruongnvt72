@@ -88,7 +88,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 <!-- ![Ipenywis's github stats](https://github.com/nguyentruongnvt72/soicauchuan_3cang/api?username=nguyentruongnvt72) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/nguyentruongnvt72/soicauchuan_3cang.git)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentruongnvt72)](https://github.com/nguyentruongnvt72/soicauchuan_3cang.git)
 
 </details>
 
